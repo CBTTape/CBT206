@@ -1,0 +1,10 @@
+2023-08-06 02:12:19.393959 - Initialized conversion of CBT206
+2023-08-06 02:12:19.481952 - Received CBT.V505.FILE206.PDS from FILE206.XMI 
+2023-08-06 02:12:19.484321 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE206.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:12:19.485523 - Found $$CBTDOC.txt (text/plain) in CBT.V505.FILE206.PDS, moved to PDS/$$CBTDOC
+2023-08-06 02:12:19.486502 - Found $$PCDOC.txt (text/plain) in CBT.V505.FILE206.PDS, moved to PDS/$$PCDOC
+2023-08-06 02:12:19.487401 - Found $UPDJCL.jcl (text/plain) in CBT.V505.FILE206.PDS, moved to PDS/$UPDJCL
+2023-08-06 02:12:19.488405 - Found @FILE206.txt (text/plain) in CBT.V505.FILE206.PDS, moved to PDS/@FILE206
+2023-08-06 02:12:19.489280 - Found DCOLJCL.jcl (text/plain) in CBT.V505.FILE206.PDS, moved to PDS/DCOLJCL
+2023-08-06 02:12:19.490243 - Found PARSRTN.txt (text/plain) in CBT.V505.FILE206.PDS, moved to PDS/PARSRTN
+2023-08-06 02:12:19.491358 - Found REXXRTN.txt (text/plain) in CBT.V505.FILE206.PDS, moved to PDS/REXXRTN
